@@ -1,2 +1,2 @@
-#My app
+# my app
 This is my app.
